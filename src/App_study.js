@@ -155,4 +155,4 @@ Food.propTypes = {
   rating: propTypes.number.isRequired,
 };
 
-export default App;
+// export default App;
